@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fastd-whitelisted
+Upstream-Contact: Sven Eckelmann <sven@narfation.org>
+Source: https://github.com/FreifunkVogtland/fastd-whitelisted
+
+Files: *
+Copyright: 2019-2020, Sven Eckelmann <sven@narfation.org>
+License: CC0-1.0
